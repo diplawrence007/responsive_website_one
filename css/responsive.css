@@ -1,0 +1,243 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+.We-design h1 {
+	font-size: 31px;
+	color: white;
+	line-height: 40px;
+	font-weight: 900;
+	padding-top: 0px;
+}
+.blog-img img {
+	width: 50%;
+	padding-top: 11px;
+}
+.owl-prev {
+	font-size: 26px;
+	color: #000;
+	position: absolute;
+	top: 60px;
+	background: none repeat scroll 0% 0% transparent;
+	left: 0%;
+	background: #EAEDEF;
+	padding: 0px 14px 2px;
+	border-radius: 32px;
+	border: 1px solid #C1C5C8;
+}
+.owl-next {
+	font-size: 26px;
+	color: #000;
+	position: absolute;
+	top: 60px;
+	background: none repeat scroll 0% 0% transparent;
+	right: 0%;
+	background: #EAEDEF;
+	padding: 0px 14px 2px;
+	border-radius: 32px;
+	border: 1px solid #C1C5C8;
+}
+.footer-main{
+	text-align:center
+}
+.footer-icon{
+	text-align:center
+}	
+
+.position-button {
+	position: relative;
+	padding-top: 12px;
+	padding-bottom: 11px;
+	padding-left: 20px;
+}
+
+}
+
+
+/* Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.navbar-default {
+	background-color: transparent;
+	border: none;
+}
+  .navbar-custom.affix {
+    background-color: #1a1a1a;
+padding: 10px 0px 10px 0px;
+  }
+.navbar-brand {
+	float: left;
+	height: 50px;
+	font-size: 18px;
+	line-height: 20px;
+	padding-top: 21px;
+}
+.services-button {
+	background: none repeat scroll 0% 0% #3E95D1;
+	color: #FFF;
+	padding: 10px 23px;
+	font-size: 14px;
+	font-weight: 900;
+	border-radius: 7px;
+	border: none;
+	margin-bottom: 0px;
+}
+
+.navbar-brand > img {
+	display: block;
+	width: 87%;
+}
+.footer-main{
+	text-align:center
+}
+.footer-icon{
+	text-align:center
+}
+.owl-prev {
+	font-size: 26px;
+	color: #000;
+	position: absolute;
+	top: 109px;
+	background: none repeat scroll 0% 0% transparent;
+	left: 0%;
+	background: #EAEDEF;
+	padding: 0px 14px 2px;
+	border-radius: 32px;
+	border: 1px solid #C1C5C8;
+}
+.owl-next {
+	font-size: 26px;
+	color: #000;
+	position: absolute;
+	top: 109px;
+	background: none repeat scroll 0% 0% transparent;
+	right: 0%;
+	background: #EAEDEF;
+	padding: 0px 14px 2px;
+	border-radius: 32px;
+	border: 1px solid #C1C5C8;
+}
+.banner-img img {
+	width: 29%;
+}
+.We-design h1 {
+	font-size: 37px;
+	color: white;
+	line-height: 40px;
+	font-weight: 900;
+	padding-top: 0px;
+}
+.services-item img {
+	width: 44%;
+	padding: 39px 0px 11px 0px;
+}
+.position-button {
+	position: relative;
+	padding-top: 12px;
+	padding-bottom: 11px;
+	padding-left: 20px;
+}
+
+
+
+
+
+}
+
+
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 480px) and (max-width:767px) {
+.navbar-default {
+	background-color: #1a1a1a;
+	border: none;
+}
+.navbar-brand > img {
+	display: block;
+	width: 87%;
+}
+.We-design h1 {
+	font-size: 36px;
+	color: white;
+	line-height: 40px;
+	font-weight: 900;
+	padding-top: 8px;
+}
+.banner-img img {
+	width: 23%;
+}
+.services-item img {
+	width: 44%;
+	padding: 40px 0px 11px 0px;
+}
+.owl-prev {
+	font-size: 26px;
+	color: #000;
+	position: absolute;
+	top: 76px;
+	background: none repeat scroll 0% 0% transparent;
+	left: 0%;
+	background: #EAEDEF;
+	padding: 0px 14px 2px;
+	border-radius: 32px;
+	border: 1px solid #C1C5C8;
+}
+.owl-next {
+	font-size: 26px;
+	color: #000;
+	position: absolute;
+	top: 76px;
+	background: none repeat scroll 0% 0% transparent;
+	right: 0%;
+	background: #EAEDEF;
+	padding: 0px 14px 2px;
+	border-radius: 32px;
+	border: 1px solid #C1C5C8;
+}
+.blog-img img {
+	width: 50%;
+	padding-top: 11px;
+}
+.navbar-default {
+	background-color: transparent;
+	border: none;
+}
+  .navbar-custom.affix {
+    background-color: #1a1a1a;
+padding: 10px 0px 10px 0px;
+  }
+.navbar-brand {
+	float: left;
+	height: 50px;
+	font-size: 18px;
+	line-height: 20px;
+	padding-top: 21px;
+}
+.services-button {
+	background: none repeat scroll 0% 0% #3E95D1;
+	color: #FFF;
+	padding: 10px 23px;
+	font-size: 14px;
+	font-weight: 900;
+	border-radius: 7px;
+	border: none;
+	margin-bottom: 0px;
+}
+.position-button {
+	position: relative;
+	padding-top: 12px;
+	padding-bottom: 11px;
+	padding-left: 20px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
